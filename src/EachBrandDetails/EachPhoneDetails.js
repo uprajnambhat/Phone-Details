@@ -18,7 +18,7 @@ const EachPhoneDetails = () => {
     return eachPhone.brand == phone;
   });
 
-  // const onDisplayClick = (displayDetails) => {
+  const onDisplayClick = (displayDetails) => {
   //   setSelectedDisplay({ ...displayDetails });
   // };
   console.log("selectedBrandDetails here is", selectedDisplay);
