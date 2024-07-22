@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Phone-Details/static/css/main.0d2bb3ed.css",
-    "main.js": "/Phone-Details/static/js/main.8afda3c0.js",
-    "static/js/453.e75a5244.chunk.js": "/Phone-Details/static/js/453.e75a5244.chunk.js",
-    "static/media/logo.svg": "/Phone-Details/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Phone-Details/index.html",
-    "main.0d2bb3ed.css.map": "/Phone-Details/static/css/main.0d2bb3ed.css.map",
-    "main.8afda3c0.js.map": "/Phone-Details/static/js/main.8afda3c0.js.map",
-    "453.e75a5244.chunk.js.map": "/Phone-Details/static/js/453.e75a5244.chunk.js.map"
+    "main.css": "/uprajnambhat/PhoneInfoHub/static/css/main.0d2bb3ed.css",
+    "main.js": "/uprajnambhat/PhoneInfoHub/static/js/main.1c8ab274.js",
+    "static/js/453.e75a5244.chunk.js": "/uprajnambhat/PhoneInfoHub/static/js/453.e75a5244.chunk.js",
+    "static/media/logo.svg": "/uprajnambhat/PhoneInfoHub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/uprajnambhat/PhoneInfoHub/index.html",
+    "main.0d2bb3ed.css.map": "/uprajnambhat/PhoneInfoHub/static/css/main.0d2bb3ed.css.map",
+    "main.1c8ab274.js.map": "/uprajnambhat/PhoneInfoHub/static/js/main.1c8ab274.js.map",
+    "453.e75a5244.chunk.js.map": "/uprajnambhat/PhoneInfoHub/static/js/453.e75a5244.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d2bb3ed.css",
-    "static/js/main.8afda3c0.js"
+    "static/js/main.1c8ab274.js"
   ]
 }
